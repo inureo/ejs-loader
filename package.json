@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/okonet/ejs-loader",
   "dependencies": {
-    "lodash": "^3.6.0",
-    "loader-utils": "^0.2.7"
+    "htmlclean": "^2.7.7",
+    "loader-utils": "^0.2.7",
+    "lodash": "^3.6.0"
   }
 }
